@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm an enthusiastic backend developer with a focus on PHP, dedicated to crafting efficient and scalable applications. I have a robust background in JavaScript (Node.js), where I’ve delivered innovative projects that meet diverse needs.<br><br>My roles as a Fullstack Developer at Citylink and a Bughunter at Breakpoint SIA provided me with invaluable experience in both development and quality assurance. I also have a foundational knowledge of Python and Golang, which broadens my technical capabilities.<br><br>My passion lies in building APIs and managing data, and I’m proficient in SQL to support those efforts. Committed to ongoing learning, I enjoy engaging with the developer community and readily embrace new challenges that drive creativity and innovation.
+I have a strong familiarity with SQL databases and am skilled in writing complex and optimized queries. In addition, I have experience working with non-relational databases such as MongoDB, CouchDB, and Redis.
+
+My proficiency in PHP spans versions 5.3 to 8.2, and I am well-versed in the Laravel framework. I also possess frontend development skills, with a solid command of JavaScript and responsive web design. I'm familiar with frontend frameworks like Vue and React, as well as the jQuery library.
+
+With practical experience in commercial development, I am adept at working in Linux environments and have the ability to administer web servers like Apache and Nginx. Additionally, I have basic knowledge of languages such as Go, Python, and C++.
+
+I am well-versed in Object-Oriented Programming (OOP) and adhere to important principles such as KISS, DRY, YAGNI, and SOLID. My passion lies in continuous learning and improving my skills to tackle the ever-evolving challenges in technology.
 
 
 ## 🌐 Socials:
